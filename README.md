@@ -1,2 +1,3 @@
-# llm-prompting-blueprint
-An advanced guide to writing better prompts for ChatGPT, Claude, Gemini, and other LLMs. Learn structured techniques like meta-prompting, self-review, and context-rich design.
+# LLM Prompt Engineering Guide
+This guide teaches you how to write high-quality prompts for OpenAI ChatGPT, Anthropic Claude, Google Gemini, DeepSeek and other large language models, using structured steps, self-critique, and avoiding of ban for some content.
+
