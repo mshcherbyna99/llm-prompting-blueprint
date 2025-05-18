@@ -1,11 +1,11 @@
-# LLM Prompt Engineering Guide
-This guide teaches you how to write high-quality prompts for OpenAI ChatGPT, Anthropic Claude, Google Gemini, DeepSeek and other large language models, using structured steps, self-critique, and avoiding of ban for some content.
+# Ultimate LLM Prompt Engineering Blueprint
+This advanced guide teaches you proven strategies for writing high-quality prompts for LLMs, like the OpenAI ChatGPT, Anthropic Claude, Google Gemini, DeepSeek and other large language models, using structured steps, self-critique, and avoiding of ban for some content.
 
 ## License
 This project repository and it's content is licensed under the [MIT License](https://github.com/mshcherbyna99/llm-prompting-blueprint/blob/main/LICENSE).
 Basically, you are free to re-use it, but just give a proper credit of my work and notify me.
 
-# LLM Tips (how to write the best prompt):
+## LLM Tips (how to write the best prompt):
 01. Prompt the model to suggest multiple solutions, not just one.
 02. Always provide context.
 03. Avoid vague queries.
