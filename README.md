@@ -18,11 +18,11 @@ Basically, you are free to re-use it, but just give a proper credit of my work a
 10. Write actions instead of questions.
 11. Wrap a code for better analysis by a model.
 12. Make output expectations crystal clear, like use the explicit constraints.
-13. Instruct the LLM to self-assess output quality.
-14. Use examples before asking.
+13. Instruct the LLM to self-rate output quality.
+14. Provide examples before asking.
 15. Tell the model what not to do.
 16. Force the model to ask clarifying questions.
-17. Prime with a persona.
+17. Add a role of persona.
 18. Specify what tools are allowed.
 19. Ask for reasoning before answering.
 20. Re-ask with "improve this" on its own answer.
